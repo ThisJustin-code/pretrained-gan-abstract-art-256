@@ -23,7 +23,7 @@ Links:
 
 * [Progression video of the training process on this data set](https://youtu.be/Veh3uNC8VI8)
 * [Latent vector walk video #1](https://youtu.be/Gzfzxq-ZHTo)
-* [Download link to my own custom art dataset used for training]()
-* [Download link to the abstract art .pkl file]()
+* [Download link to my own custom art dataset used for training](https://github.com/ThisJustin-code/pretrained-gan-abstract-art-256/releases/download/v1.0/abstract-art-img-set-256.zip)
+* [Download link to the abstract art .pkl file](https://github.com/ThisJustin-code/pretrained-gan-abstract-art-256/releases/download/v1.0/abstract-art-256-trained.pkl)
 
 Updated on **04/26/2021** by **Justin Gallagher**
